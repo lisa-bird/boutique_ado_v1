@@ -27,12 +27,8 @@ SECRET_KEY = 'django-insecure-b$0583+=cw%)oglfw)0gcevfmi0ag+c)p7p^hj!j!ry!1@gax+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-                '8000-lisa-bird-boutique-ado-v-mmq5gfm7jw.us2.codeanyapp.com',
-                'boutique-ado-lb-1242bf4535b9.herokuapp.com'
-                'boutique-ado-lb',
-                'localhost',
-]
+ALLOWED_HOSTS = ['boutique-ado-lb-1242bf4535b9.herokuapp.com', 'localhost']
+                
 
 
 # Application definition
