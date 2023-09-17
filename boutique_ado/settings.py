@@ -29,6 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
                 '8000-lisa-bird-boutique-ado-v-mmq5gfm7jw.us2.codeanyapp.com',
+                'boutique-ado-lb-1242bf4535b9.herokuapp.com'
                 'boutique-ado-lb',
                 'localhost',
 ]
